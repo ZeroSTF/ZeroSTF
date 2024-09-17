@@ -19,7 +19,7 @@ Fullstack Engineer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZeroSTF&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐍 My Contributions 🐍
+## 🐍 My Contributions
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
