@@ -4,7 +4,7 @@
 
 Fullstack Engineer
 
-🔭 I’m currently working on an AI automation project for corporate tasks
+🔭 I’m currently working on an AI automation project for corporate tasks & a design app
 
 🌱 I’m currently learning Docker, Cobol, AWS
 
