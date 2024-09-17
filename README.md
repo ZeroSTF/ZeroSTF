@@ -16,10 +16,8 @@ Fullstack Engineer
 ![](https://github-profile-trophy.vercel.app/?username=ZeroSTF&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 # 🐍 My Contributions
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeroSTF/ZeroSTF/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 # 📊 GitHub Stats:
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroSTF&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
