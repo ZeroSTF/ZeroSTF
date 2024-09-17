@@ -1,4 +1,4 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp0](https://visitcount.itsvg.in/api?id=ZeroSTF&icon=0&color=0)7" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=ZeroSTF&icon=0&color=0" />
 
 # 💫 About Me:
 
