@@ -1,7 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 # 💫 About Me:
-<div align="right>
-  [![](https://visitcount.itsvg.in/api?id=ZeroSTF&icon=0&color=0)](https://visitcount.itsvg.in)
-  </div>
+
 Fullstack Engineer
 
 🔭 I’m currently working on an AI automation project for corporate tasks
