@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Fullstack Engineer
+Full Stack Engineer
 
 🔭 I’m currently working on an AI automation project for corporate tasks & a design app
 
