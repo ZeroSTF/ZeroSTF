@@ -45,3 +45,12 @@ Full Stack Engineer
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSTF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+---
+<br>
+<div align="center">
+  <p style="font-style: italic; font-size: 24px; color: #3498db;">
+    "A jack of all trades is a master of none,<br>
+    but oftentimes better than a master of one."
+  </p>
+</div>
