@@ -46,7 +46,7 @@ Full Stack Engineer, passionate about solving complex problems
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSTF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-# 📊 GitHub Profile Summary
+# 📋 GitHub Summary:
 <div align=center>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
