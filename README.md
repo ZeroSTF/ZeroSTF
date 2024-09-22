@@ -1,6 +1,9 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=ZeroSTF&icon=0&color=0" />
 
-# 💫 About Me:
+<div align=center>
+  
+# 💫 About Me
+</div>
 
 Full Stack Engineer, passionate about solving complex problems
 
@@ -8,8 +11,10 @@ Full Stack Engineer, passionate about solving complex problems
 
 🌱 I’m currently learning Docker, Cobol, AWS
 
-
-# 💻 Tech Stack:
+<div align=center>
+  
+# 💻 Tech Stack
+</div>
 
 ### 🌐 Languages
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)
@@ -32,13 +37,24 @@ Full Stack Engineer, passionate about solving complex problems
 ### 🧰 Other
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
+<br>
+<div align=center>
+  
 # 🏆 GitHub Trophies
+</div>
+
 ![](https://github-profile-trophy.vercel.app/?username=ZeroSTF&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-# 🐍 My Contributions
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeroSTF/ZeroSTF/output/github-contribution-grid-snake.svg" />
+<div align=center>
   
-# 📊 GitHub Stats:
+# 🐍 My Contributions
+</div>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeroSTF/ZeroSTF/output/github-contribution-grid-snake.svg" />
+
+  <div align=center>
+  
+# 📊 GitHub Stats
+</div>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroSTF&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ZeroSTF&include_all_commits=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -46,7 +62,10 @@ Full Stack Engineer, passionate about solving complex problems
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSTF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-# 📋 GitHub Summary:
+<div align=center>
+  
+# 📋 GitHub Summary
+</div>
 <div align=center>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
