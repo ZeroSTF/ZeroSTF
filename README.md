@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Full Stack Engineer
+Full Stack Engineer, passionate about solving complex problems
 
 🔭 I’m currently working on an AI automation project for corporate tasks & a design app
 
@@ -46,7 +46,16 @@ Full Stack Engineer
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSTF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+# 📊 GitHub Profile Summary
+<div align=center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
+</div>
+
 ---
+
 <br>
 <div align="center">
   <p style="font-style: italic; font-size: 24px; color: #3498db;">
