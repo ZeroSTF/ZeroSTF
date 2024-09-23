@@ -54,7 +54,7 @@ Full Stack Engineer, passionate about solving complex problems.
 
 <div align=center>
   
-# 🐍 My Contributions
+# 🐍 My Contributions 
 </div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeroSTF/ZeroSTF/output/github-contribution-grid-snake.svg" />
 
