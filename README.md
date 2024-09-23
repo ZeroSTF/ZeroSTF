@@ -9,7 +9,7 @@ Full Stack Engineer, passionate about solving complex problems.
 
 🔭 I’m currently working on an AI automation project for corporate tasks & a design app
 
-🌱 I’m currently learning Docker, Cobol, AWS
+🌱 I’m currently learning machine learning, Cobol & AWS
 
 <div align=center>
   
