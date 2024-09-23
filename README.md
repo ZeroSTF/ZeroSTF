@@ -79,13 +79,3 @@ Full Stack Engineer, passionate about solving complex problems.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeroSTF&theme=react&include_all_commits=true&count_private=true)
 </div>
-
----
-
-<br>
-<div align="center">
-  <p style="font-style: italic; font-size: 24px; color: #3498db;">
-    "A jack of all trades is a master of none,<br>
-    but oftentimes better than a master of one."
-  </p>
-</div>
